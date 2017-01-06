@@ -8,6 +8,10 @@
 	<name>avaliacao</name>
 	<description>Projeto de avaliação pessoal!</description>
 
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
 	<build>
 		<finalName>avaliacao-accenture</finalName>
 		<plugins>
