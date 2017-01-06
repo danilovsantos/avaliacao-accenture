@@ -1,0 +1,7 @@
+cliente.codigo.null=Código do cliente não pode ser nulo!
+cliente.nome.null=Nome do cliente não pode ser nulo!
+cliente.cpf=CPF do cliente não pode ser nulo!
+
+cliente.codigo.numeric=Código do cliente não pode conter letras!
+cliente.nome.letters=Nome do cliente deve conter somente letras!
+cliente.cpf.numeric=CPF do cliente não pode conter letras.
