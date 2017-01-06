@@ -9,7 +9,7 @@
 	<description>Projeto de avaliação pessoal!</description>
 
 	<properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.build.sourceEncoding>iso-8859-1</project.build.sourceEncoding>
 	</properties>
 
 	<build>
